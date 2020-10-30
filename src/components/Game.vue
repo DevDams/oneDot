@@ -50,7 +50,7 @@ export default {
     },
     player: function () {
       this.stopped = false
-      this.time = 10
+      this.time = 60
 
       let self = this
       setInterval(function () {
