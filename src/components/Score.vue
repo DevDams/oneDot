@@ -13,18 +13,17 @@ export default {
 
 <style scoped>
   .score {
-    margin-top: 10px;
     text-align: center;
     font-weight: bolder;
-    color: #f870b2;
-    /* display:block;
+    color: #f2f2f2;
+    display:block;
     height:50px;
-    width:105px;
+    width:85px;
     font-size:19pt;
     font-weight:600;
+    font-family: 'Grandstander', cursive;
     background:#000;
-    padding:5px;
-    line-height:40px;
-    margin:0 auto; */
+    line-height:50px;
+    margin:10px auto;
   }
 </style>
