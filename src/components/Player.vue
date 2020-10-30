@@ -18,7 +18,7 @@ export default {
     }
   },
   updated: function () {
-    this.welcomeMessage = `Bonjour <span class="player">${this.player}</span> !`
+    this.welcomeMessage = `- Bonjour <span class="player">${this.player}</span> ! -`
   },
   methods: {
     setPlayer: function (event) {
