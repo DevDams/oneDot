@@ -147,13 +147,6 @@ export default {
     transition: opacity 1s;
   }
 
-  /* .log {
-    width: 100%;
-    height: 50px;
-    background: #666;
-    display: block;
-  } */
-
   .round {
     background: rgb(152, 173, 192);
     border-radius: 9999px;
@@ -176,6 +169,7 @@ export default {
   .time {
     position: absolute;
     font-size: 90pt;
+    font-family: 'Grandstander', cursive;
     padding-left: 30px;
     color: aliceblue;
     opacity: 0.2;

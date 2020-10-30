@@ -36,6 +36,8 @@ export default {
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,500;1,400&display=swap');
+
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -44,5 +46,6 @@ export default {
   height: 500px;
   display: block;
   margin: auto;
+  background: #9c89b8;
 }
 </style>
