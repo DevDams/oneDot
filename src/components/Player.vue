@@ -42,27 +42,35 @@ export default {
     }
 
     .info {
-      margin-top: 40px;
+      margin-top: 10px;
       text-align: center;
+      font-family: 'Grandstander', cursive;
+      letter-spacing: 2px;
     }
 
     .welcomeMessage {
       font-weight: 700;
+      font-family: 'Grandstander', cursive;
+      letter-spacing: 2px;
     }
 
     input[type="text"] {
-      border: 1px solid #334455;
+      border: 2px solid #334455;
       border-radius: 5px;
-      padding: 7px 20px;
+      padding: 15px 30px;
+      font-family: 'Grandstander', cursive;
+      letter-spacing: 2px;
     }
 
     button[type="submit"] {
       background: #b8bedd;
-      color: #f0e6ef;
-      font-weight: 700;
+      color: #000;
+      font-weight: 600;
+      font-family: 'Grandstander', cursive;
+      letter-spacing: 2px;
       border: none;
       border-radius: 5px;
-      padding: 7px 20px;
+      padding: 12px 25px;
       cursor: pointer;
     }
 </style>
